@@ -1,6 +1,6 @@
 AndroTrace 
 =======================
-* Maintainer: Eunryoung Lim (erlim@hanyang.ac.kr)
+* Maintainer: Eunryoung Lim (eunryoung.lim@gmail.com)
 * Reference: 
 
 ------------
@@ -83,5 +83,5 @@ Setup
 
 
 
-2014-10-14, Eunryoung Lim <erlim@hanyang.ac.kr>
+2014-10-14, Eunryoung Lim (eunryoung.lim@gmail.com)
 
